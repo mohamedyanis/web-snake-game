@@ -24,7 +24,7 @@ Home
 ![screenshoot](screenshots/sgg.png) 
 
 ## Requirements
-* Broaser like Chrome
+* Browser like Chrome
 
 ## How To Use It
 1. Install this repository, click <a href="https://github.com/mohamedyanis/web-snake-game/archive/master.zip"> here </a> to install it.
